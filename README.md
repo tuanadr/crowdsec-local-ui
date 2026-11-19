@@ -1,0 +1,1 @@
+# crowdsec-local-ui
